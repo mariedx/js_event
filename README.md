@@ -1,6 +1,6 @@
 # Play with JS Event
 
-Projet peer codé par Clémentine FOUQUE, Benjamin SERVAL et Marie DECHAUX.
+Projet peer codé par Clémentine FOUQUE, Benjamin SERVAL et Marie DECHAUX (aka la team rocket).
 
   * Git Clone 
   * Ouvrir le fichier index.html dans le navigateur.
